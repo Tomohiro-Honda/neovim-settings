@@ -9,7 +9,6 @@ Plug 'Yggdroot/indentLine'
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-fugitive'
-Plug 'itchyny/lightline.vim'
 Plug 'kassio/neoterm'
 Plug 'prettier/vim-prettier', {
   \ 'do': 'yarn install --frozen-lockfile --production',
